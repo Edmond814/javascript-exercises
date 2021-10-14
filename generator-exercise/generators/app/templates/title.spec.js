@@ -1,4 +1,4 @@
-let <%= title %> = require('./<%=title%>')
+const helloWorld = require('./helloWorld');
 
 describe('<%=title%>', function() {
   test('EDITME', function() {
